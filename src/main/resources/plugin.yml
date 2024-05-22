@@ -3,6 +3,7 @@ version: ${project.version}
 main: net.milkbowl.vault.Vault
 authors: [ Sleaker, Cerea1, Mung3r, Kainzo, Foulest ]
 api-version: 1.20
+folia-supported: true
 permissions:
   vault.main:
     description: Allows access to all Vault commands
